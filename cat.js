@@ -8,6 +8,7 @@ function showcat(){
 
 let cat = {
 alive: Math.random( ) < 0.5 ? " är levande" : " är död!!!" ,
-name:"Shady"
+name:"Gustav"
 }
-alert(  "Katten heter: "+cat.name  + " och"+ cat.alive)
+alert("Katten heter: "+cat.name + " och"+ cat.alive)
+
